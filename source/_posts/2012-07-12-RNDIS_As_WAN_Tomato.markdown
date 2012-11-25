@@ -24,7 +24,7 @@ The best place to put these files is in the router's JFFS partition, so they're 
 
 Once you've got the kernel modules onto the router, insert them in the order they are listed above like so: 
 
-``` shell
+``` bash
 $ insmod mii.ko  
 $ insmod usbnet.ko
 ```
@@ -33,19 +33,19 @@ $ insmod usbnet.ko
 
 After that is done, check to see that all the right modules are loaded: 
 
-``` shell
+``` bash
 $ lsmod
 ```
 
 If everything looks good there, plug in the Clearstick, wait for it to indicate that it has a signal, and then check to make sure you have a new network interface available. Make note of what the network interface is (for me, the new CDC_Ether device was eth2)
 
-``` shell
+``` bash
 $ dmesg
 ```
 
 When we've got the interface name, now we just need to bring the interface up, have the router request an IP via DHCP from the modem, add the modem to the default bridge (so our other interfaces can talk to it), and make sure we route all outbound traffic through the modem. Use these commands. Substitute your interface name for eth2 and the modem's IP for 192.168.1.10. 
 
-``` shell
+``` bash
 $ ifconfig eth2 up  
 $ udhcpc -i eth2  
 $ brctl addif br0 eth2  
