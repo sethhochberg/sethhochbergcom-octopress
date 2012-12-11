@@ -1,6 +1,8 @@
 ---
 layout: post
 title: USB RNDIS Modem as WAN on Tomato Firmware
+comments: false
+categories: linux
 ---
 
 I recently ran into a situation where it was desirable for me to be able to plug my Clear Clearstick Atlas (a plug-and-play USB WiMax modem) into the USB port on my router and use it as the internet connection for all the devices on my network. Below is how I accomplished this task using my Netgear WNR3500L router, running the .... build of the awesome Tomato router firmware. 
@@ -17,7 +19,7 @@ usbnet.ko
 cdc_ether.ko  
 rndis_host.ko  
 
-You can get these from the "extras-mips" tarballs from whatever the lastest build available is here: 
+You can get these from the "extras-mips" tarballs from whatever the latest build available is here: 
 [Shibby's Tomato Site](http://tomato.groov.pl/download/K26/)
 
 The best place to put these files is in the router's JFFS partition, so they're available to you even after reboots of the hardware. Google around for a tutorial on setting that up, there are plenty available. 

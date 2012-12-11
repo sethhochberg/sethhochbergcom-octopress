@@ -1,6 +1,8 @@
 ---
 layout: post
 title: FFilter - A simple Python script for spectral filtering of audio files
+comments: false
+categories: software
 ---
 
 FFilter is a project I worked on to implement spectral filtering of audio files in Python using some simple FFT libraries. Its sorta neat, give it a look! 
@@ -25,5 +27,5 @@ Downloads:
 [FFilter.zip](http://dl.dropbox.com/u/3030733/FFilter.zip) (contains both project source code and paper) 
 
 
-Full codebade on GitHub: 
+Full codebase on GitHub: 
 [FFilter](https://github.com/sethhochberg/FFilter)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: BoosterWorks - A Volunteer Scheduling System
+comments: false
+categories: software
 ---
   
 
@@ -15,7 +17,7 @@ The program is free (both to use and to build upon) and will run on just about a
 
 If you'd like a custom feature or set of features added to BoosterWorks, please email me and we'll discuss how this might could be done. Requests that are general enough to be put into the main program can be done for free. A request that either isn't general enough to be put into the main code, or that is specific to your group (including visual changes to match your organizations colors and style) can be performed for a reasonable fee. Please email to get a discussion going!
 
-Don't have time to set it up, or don't know how? If the included documentation isn't enough (see the INSTALL.txt file), I can perform the instalation and configuration for you for a small fee to cover my time.
+Don't have time to set it up, or don't know how? If the included documentation isn't enough (see the INSTALL.txt file), I can perform the installation and configuration for you for a small fee to cover my time.
 
 Get It:
 ---
