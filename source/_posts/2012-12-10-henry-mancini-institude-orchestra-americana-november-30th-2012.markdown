@@ -22,3 +22,23 @@ The remix of this recording is currently a work in progress, and movements will 
 1 - Overture
 
 {% audio https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/1+-+Overture.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/1+-+Overture.ogg %}
+
+2 - Too Toot Tootie Toot
+
+{% audio https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/2+-+Toot+Toot+Tootie+Toot.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/2+-+Toot+Toot+Tootie+Toot.ogg %}
+
+3 - Peanut Brittle Brigade
+
+{% audio https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/3+-+Peanut+Brittle+Brigade.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/3+-+Peanut+Brittle+Brigade.ogg %}
+
+4 - Sugar Rum Cheery
+
+{% audio https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/4+-+Sugar+Rum+Cherry.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/4+-+Sugar+Rum+Cherry.ogg %}
+
+5 - Entracte
+
+{% audio https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/5+-+Entracte.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/5+-+Entracte.ogg %}
+
+7 - Chinoiserie
+
+{% audio https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/7+-+Chinoiserie.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Duke+Ellington+Nutcracker/7+-+Chinoiserie.ogg %}
