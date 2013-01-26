@@ -17,7 +17,6 @@ Working in the Frost School of Music's concert halls, I'm fortunate to get to wo
 
 ##Tape Restorations
 
-A great mentor and close friend of mine's father spent much of his career as a saxophonist in various military bands, not the least of which included the Naval Academy's Next Wave, the Army Field Band's Jazz Ambassadors, and the Air Force's Airmen of Note. I'm in the process of digitizing and cleaning up a bunch of these 7" tapes as time allows, and 
+A great mentor and close friend of mine's father spent much of his career as a saxophonist in various military bands, not the least of which included the Naval Academy's Next Wave, the Army Field Band's Jazz Ambassadors, and the Air Force's Airmen of Note. I'm in the process of digitizing and cleaning up a bunch of these 7" tapes as time allows, and the results of that effort are linked below.  
 
-[Naval Academy Next Wave - A Preview](https://s3.amazonaws.com/SethHochbergComMedia/01-121122_1545_01.mp3)
-
+[The Naval Academy Next Wave](/blog/)

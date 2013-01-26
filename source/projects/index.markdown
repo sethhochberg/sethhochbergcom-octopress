@@ -20,6 +20,8 @@ footer: true
 
 [Boosterworks](/blog/2012/06/20/Boosterworks/) - Shift Scheduling Software for Volunteer Organizations
 
+[Granular Synth](https://github.com/sethhochberg/matlab_granular_synthesis/) - Using MATLAB for granular processing of existing WAV files
+
 ##Linux
 
 [Using a USB RNDIS Modem as a WAN device](/blog/2012/07/12/RNDIS_As_WAN_Tomato/)
