@@ -12,7 +12,7 @@ Barry Manilow - Lay Me Down
 
 {% audio https://s3.amazonaws.com/SethHochbergComMedia/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.ogg %}
 
-Chick Corea - Unknown Song
+Chick Corea - Spain
 
 {% audio https://s3.amazonaws.com/SethHochbergComMedia/Naval+Academy+Next+Wave/Chick+Corea+-+Unknown.mp3 https://s3.amazonaws.com/SethHochbergComMedia/Naval+Academy+Next+Wave/Chick+Corea+-+Unknown.ogg  %}
 
