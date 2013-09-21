@@ -19,4 +19,4 @@ Working in the Frost School of Music's concert halls, I'm fortunate to get to wo
 
 A great mentor and close friend of mine's father spent much of his career as a saxophonist in various military bands, not the least of which included the Naval Academy's Next Wave, the Army Field Band's Jazz Ambassadors, and the Air Force's Airmen of Note. I'm in the process of digitizing and cleaning up a bunch of these 7" tapes as time allows, and the results of that effort are linked below.  
 
-[The Naval Academy Next Wave](/blog/)
+[The Naval Academy Next Wave](/blog/2013/01/25/naval-academy-next-wave/)

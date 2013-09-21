@@ -7,7 +7,7 @@ title: Seth Hochberg dot com
 subtitle: software developer, audio engineer, and community manager
 author: Seth Hochberg
 simple_search: http://google.com/search
-description: music, computers, audio, and other fun things
+description: software developer, audio engineer, and community manager
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: sethhochberg
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: false
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: sethhochberg
 disqus_show_comment_count: false
 
 # Google Analytics
