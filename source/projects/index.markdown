@@ -16,7 +16,13 @@ footer: true
 
 ##Software
 
-[FFilter](/blog/2012/07/10/FFilter/) - Spectral filtering using Python
+[StoryWard](/blog/2013/09/20/storyward/) -A web
+application for collaborative storybuilding in the style of a
+create-your-own-advendute book, built with Ruby on Rails in a 7-day
+sprint at Dev Bootcamp in San Francisco.
+
+[FFilter](/blog/2012/07/10/FFilter/) - Spectral filtering in the most
+heavy-handed way possible, using Python 
 
 [Boosterworks](/blog/2012/06/20/Boosterworks/) - Shift Scheduling Software for Volunteer Organizations
 
