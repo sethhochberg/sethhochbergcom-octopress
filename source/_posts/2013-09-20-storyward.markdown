@@ -83,3 +83,9 @@ to that particular point.
     ids_array.map{|id| unordered_nodes.detect{|each| each.id == id}}
   end
 {% endcodeblock %}
+
+The call to "self.parent_path_will_change!" is interesting -
+ActiveRecord does not track destructive changes to objects, including
+pushing to or popping from arrays. We need to explicitly tell
+ActiveRecord to expect that the parent_path will change in order for
+the changed attribute to be persisted in the database. 
