@@ -15,3 +15,5 @@ This "systems building" takes a couple of different forms. I build people-system
 As a software developer, most recently working for a hybrid venture capital / startup incubator firm called Sandbox Industries, I build software products for resident companies using great tools like Ruby, Rails, Git, and Sublime Text.
 
 In the most literal sense, I work as an audio engineer and design, implement, and mix on professional audio systems. I've recorded small and large ensembles in genres from opera theater to salsa orchestra, working with artists Lucie Arnaz, Tiempo Libre, and Kate Reid. I love the Yamaha DM 2000 console, MAGIX Sequoia, and Cockos Reaper.
+
+[My resume is available here.](/resume)
