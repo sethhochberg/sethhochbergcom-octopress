@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duke Ellington Nutracker"
+title: "Duke Ellington Nutcracker"
 date: 2014-04-01 20:55
 comments: false
 categories: sound
