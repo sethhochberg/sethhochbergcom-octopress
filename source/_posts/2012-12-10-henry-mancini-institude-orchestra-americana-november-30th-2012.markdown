@@ -10,7 +10,7 @@ Just recently the Henry Mancini Institute Orchestra put on a concert of American
 
 The concert opened with an original staging of Aaron Copland's Appalachian Spring, recorded into MAGIX Seqouia through a Yamaha DM-2000 console's preamps and RME HDSP MADI interface at 24bit/96khz. Microphones were a 50cm spaced pair of DPA 4051, suspended roughly 12 feet above and 3 feet behind the conductor. 
 
-{% audio http://media.sethhochberg.com/Henry+Mancini+Orchestra+-+Copland+-+Appalachian+Spring.mp3 http://media.sethhochberg.com/Henry+Mancini+Orchestra+-+Copland+-+Appalachian+Spring.ogg %}
+{% audio https://media.sethhochberg.com/Henry+Mancini+Orchestra+-+Copland+-+Appalachian+Spring.mp3 https://media.sethhochberg.com/Henry+Mancini+Orchestra+-+Copland+-+Appalachian+Spring.ogg %}
 
 After the above Copland performance, the Mancini Institutes's big band took the stage, for a performance of the complete Duke Ellington Nutcracker (music by Tchaikovsky, arranged by Ellington for big band). 
 
@@ -18,42 +18,42 @@ The big band consisted of 4 trumpets, 4 trombones, 5 woodwinds, piano, drums, an
 
 1 - Overture
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/1+-+Overture.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/1+-+Overture.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/1+-+Overture.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/1+-+Overture.ogg %}
 
 2 - Too Toot Tootie Toot
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/2+-+Toot+Toot+Tootie+Toot.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/2+-+Toot+Toot+Tootie+Toot.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/2+-+Toot+Toot+Tootie+Toot.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/2+-+Toot+Toot+Tootie+Toot.ogg %}
 
 3 - Peanut Brittle Brigade
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/3+-+Peanut+Brittle+Brigade.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/3+-+Peanut+Brittle+Brigade.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/3+-+Peanut+Brittle+Brigade.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/3+-+Peanut+Brittle+Brigade.ogg %}
 
 4 - Sugar Rum Cheery
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/4+-+Sugar+Rum+Cherry.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/4+-+Sugar+Rum+Cherry.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/4+-+Sugar+Rum+Cherry.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/4+-+Sugar+Rum+Cherry.ogg %}
 
 5 - Entracte
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/5+-+Entracte.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/5+-+Entracte.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/5+-+Entracte.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/5+-+Entracte.ogg %}
 
 6 - Volga Vouty
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/6+-+Volga+Vouty.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/6+-+Volga+Vouty.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/6+-+Volga+Vouty.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/6+-+Volga+Vouty.ogg %}
 
 7 - Chinoiserie
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/7+-+Chinoiserie.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/7+-+Chinoiserie.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/7+-+Chinoiserie.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/7+-+Chinoiserie.ogg %}
 
 8 - Dance of the Floredores
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/8+-+Dance+of+the+Floredores.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/8+-+Dance+of+the+Floredores.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/8+-+Dance+of+the+Floredores.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/8+-+Dance+of+the+Floredores.ogg %}
 
 9 - Arabesque Cookie
 
-{% audio http:/media.sethhochberg.com/Duke+Ellington+Nutcracker/9+-+Arabesque+Cookie.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/9+-+Arabesque+Cookie.ogg %}
+{% audio http:/media.sethhochberg.com/Duke+Ellington+Nutcracker/9+-+Arabesque+Cookie.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/9+-+Arabesque+Cookie.ogg %}
 
 The entire Nutracker Suite in one file:
 
-{% audio http://media.sethhochberg.com/Duke+Ellington+Nutcracker/Duke+Ellington+Nutcracker.mp3 http://media.sethhochberg.com/Duke+Ellington+Nutcracker/Duke+Ellington+Nutcracker.ogg %}
+{% audio https://media.sethhochberg.com/Duke+Ellington+Nutcracker/Duke+Ellington+Nutcracker.mp3 https://media.sethhochberg.com/Duke+Ellington+Nutcracker/Duke+Ellington+Nutcracker.ogg %}
 
 Enjoy!

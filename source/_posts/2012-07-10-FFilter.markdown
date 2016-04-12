@@ -24,7 +24,7 @@ $ FFilter.py --help
 Downloads: 
 ---
 
-[FFilter.zip](http://dl.dropbox.com/u/3030733/FFilter.zip) (contains both project source code and paper) 
+[FFilter.zip](https://dl.dropbox.com/u/3030733/FFilter.zip) (contains both project source code and paper) 
 
 
 Full codebase on GitHub: 

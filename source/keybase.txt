@@ -4,7 +4,7 @@ https://keybase.io/sethhochberg
 
 I hereby claim:
 
-  * I am an admin of http://sethhochberg.com
+  * I am an admin of https://www.sethhochberg.com
   * I am sethhochberg (https://keybase.io/sethhochberg) on keybase.
   * I have a public key with fingerprint 083C E8B3 FACC C0E2 570D  D5FC 49D0 B4AA B390 6301
 
