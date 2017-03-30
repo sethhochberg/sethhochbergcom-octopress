@@ -10,14 +10,14 @@ After seeing the [Osprey Dual LAB](/blog/2012/09/06/the-osprey-lab-subwoofer/) i
 
 What'd I come up with? 
 
-{% img https://s3.amazonaws.com/SethHochbergComMedia/single_lab_design.PNG %}
+{% img https://d2ue6wpj4p2l5d.cloudfront.net/single_lab_design.PNG %}
 
 The box was very compact, took a LAB 12 driver, and simulated really well (as evidenced by the plots below):
 
-{% img https://s3.amazonaws.com/SethHochbergComMedia/single_lab_plots.PNG %}
+{% img https://d2ue6wpj4p2l5d.cloudfront.net/single_lab_plots.PNG %}
 
 Time to build! The parts collection was indeed simple, which was perfect! A half-sheet of MDF was plenty, and since this was going into a car, MDF was a fine material, we didn't need the birch plywood the Dual LAB got. 
 
-{% img https://s3.amazonaws.com/SethHochbergComMedia/single_lab_parts.jpg %}
+{% img https://d2ue6wpj4p2l5d.cloudfront.net/single_lab_parts.jpg %}
 
 Unfortunately, I never got a picture of this one when it was all built. We finished the cabinet in your standard "rat fur" black carpet, and it still sits happily in the trunk of that Honda Civic. Maybe you've heard it if you're in north Pinellas County. 

@@ -10,24 +10,24 @@ As part of a group of military band tracks I'm working to restore of 7" tapes, t
 
 Barry Manilow - Lay Me Down
 
-{% audio https://media.sethhochberg.com/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.mp3 https://media.sethhochberg.com/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.mp3 https://media.sethhochberg.com/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.ogg %}
+{% audio https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.mp3 https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.mp3 https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Barry+Manilow+-+Lay+Me+Down.ogg %}
 
 Chick Corea - Spain
 
-{% audio https://media.sethhochberg.com/Naval+Academy+Next+Wave/Chick+Corea+-+Unknown.mp3 https://media.sethhochberg.com/Naval+Academy+Next+Wave/Chick+Corea+-+Unknown.ogg  %}
+{% audio https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Chick+Corea+-+Unknown.mp3 https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Chick+Corea+-+Unknown.ogg  %}
 
 George Benson - Unknown Song
 
-{% audio https://media.sethhochberg.com/Naval+Academy+Next+Wave/George+Benson+-+Unknown.mp3 https://media.sethhochberg.com/Naval+Academy+Next+Wave/George+Benson+-+Unknown.ogg %}
+{% audio https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/George+Benson+-+Unknown.mp3 https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/George+Benson+-+Unknown.ogg %}
 
 Skip Clarke - Sweet Loveliness
 
-{% audio https://media.sethhochberg.com/Naval+Academy+Next+Wave/Skip+Clarke+-+Sweet+Loveliness.mp3 https://media.sethhochberg.com/Naval+Academy+Next+Wave/Skip+Clarke+-+Sweet+Loveliness.ogg %}
+{% audio https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Skip+Clarke+-+Sweet+Loveliness.mp3 https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Skip+Clarke+-+Sweet+Loveliness.ogg %}
 
 Stan Kennedy - Yesterdays
 
-{% audio https://media.sethhochberg.com/Naval+Academy+Next+Wave/Stan+Kenedy+-+Yesterdays.mp3 https://media.sethhochberg.com/Naval+Academy+Next+Wave/Stan+Kenedy+-+Yesterdays.ogg %}
+{% audio https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Stan+Kenedy+-+Yesterdays.mp3 https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Stan+Kenedy+-+Yesterdays.ogg %}
 
 Unknown Composer - Come Back to Me
 
-{% audio https://media.sethhochberg.com/Naval+Academy+Next+Wave/Unknown+-+Come+Back+to+Me.mp3 https://media.sethhochberg.com/Naval+Academy+Next+Wave/Unknown+-+Come+Back+to+Me.ogg %}
+{% audio https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Unknown+-+Come+Back+to+Me.mp3 https://d2ue6wpj4p2l5d.cloudfront.net/Naval+Academy+Next+Wave/Unknown+-+Come+Back+to+Me.ogg %}

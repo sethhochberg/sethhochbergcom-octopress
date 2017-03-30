@@ -11,19 +11,19 @@ The Osprey LAB Sub is named for the company name I was operating under a few yea
 A few pictures from the construction process...
 
 After caulk and foam, before the drivers go in:
-{% img https://s3.amazonaws.com/SethHochbergComMedia/dual_lab_open.jpg %}
+{% img https://d2ue6wpj4p2l5d.cloudfront.net/dual_lab_open.jpg %}
 
 Note that the lid of the box makes up the top wall of the top port, also. The port design was intended to keep things as simple as possible internally. 
 
 At the first sound check... 
 
-{% img https://s3.amazonaws.com/SethHochbergComMedia/dual_lab_built.jpg %}
+{% img https://d2ue6wpj4p2l5d.cloudfront.net/dual_lab_built.jpg %}
 
 Drivers are wired in parallel, and the box eventually was finished in a thick black outdoor deck sealant, with a 14ga steel grille from Parts Express. 
 
 What can it do? 
 
-{% img https://s3.amazonaws.com/SethHochbergComMedia/dual_lab_plots.PNG %}
+{% img https://d2ue6wpj4p2l5d.cloudfront.net/dual_lab_plots.PNG %}
 
 Pretty good. 
 
