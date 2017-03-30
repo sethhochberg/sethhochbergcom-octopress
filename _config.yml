@@ -6,7 +6,7 @@ url: https://www.sethhochberg.com
 title: Seth Hochberg
 subtitle: software developer, audio engineer, and community manager
 author: Seth Hochberg
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 description: software developer, audio engineer, and community manager
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: sethhochberg
+disqus_short_name: 
 disqus_show_comment_count: false
 
 # Google Analytics

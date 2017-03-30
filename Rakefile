@@ -6,8 +6,8 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "seth@access.sethhochberg.com"
 ssh_port       = "22"
-document_root  = "/var/www/sethhochberg.com"
-rsync_delete   = false
+document_root  = "/var/www/www.sethhochberg.com"
+rsync_delete   = true
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
